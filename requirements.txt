@@ -4,4 +4,3 @@ pandas
 pyarrow
 pyjanitor
 ipykernel
-test fork push
